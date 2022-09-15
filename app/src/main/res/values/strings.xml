@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WorkoutAppTest</string>
+    <string name="workouts_title">Workouts</string>
+    <string name="workouts_circuits_title">Circuits</string>
+    <string name="workouts_exercises_title">Exercises</string>
+    <string name="workouts_mins_title">Mins</string>
+</resources>

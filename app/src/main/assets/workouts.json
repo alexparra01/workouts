@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Shoulders & Back Blast",
+    "subcategory_name": "Resistance",
+    "circuit_count": 5,
+    "exercise_count": 9,
+    "estimated_duration": "45-60",
+    "image": "https://staging-assets.sweat.com/focuses/card_images/010/000/777/original/Resistance_%E2%80%A2_Shoulder___Back_Blast11ce5e4dec8a9afc97b0f8850d562bc3.png?1625479961"
+  },
+  {
+    "name": "Glutes & Hamstrings Builder",
+    "subcategory_name": "Resistance",
+    "circuit_count": 5,
+    "exercise_count": 9,
+    "estimated_duration": "45-60",
+    "image": "https://staging-assets.sweat.com/focuses/card_images/010/000/776/original/Resistance_%E2%80%A2_Glutes___Hamstrings_Builder1203d852f680df9ec4c2104f925fef0e.png?1625479958"
+  },
+  {
+    "name": "Chest, Back & Arm Pump",
+    "subcategory_name": "Resistance",
+    "circuit_count": 6,
+    "exercise_count": 11,
+    "estimated_duration": "45-60",
+    "image": "https://staging-assets.sweat.com/focuses/card_images/010/000/778/original/Resistance_%E2%80%A2_Chest__Back___Arm_Pump0d6a08bae1e77ce6cd099af4536760ea.png?1625479963"
+  },
+  {
+    "name": "Quads & Hamstrings Burner",
+    "subcategory_name": "Resistance",
+    "circuit_count": 5,
+    "exercise_count": 9,
+    "estimated_duration": "45-60",
+    "image": "https://staging-assets.sweat.com/focuses/card_images/010/000/779/original/Resistance_%E2%80%A2_Quads___Hamstrings_Burner9bb6b819a780cf5ada03885a31b03897.png?1625479965"
+  },
+  {
+    "name": "Shoulders & Arm Shaper",
+    "subcategory_name": "Resistance",
+    "circuit_count": 5,
+    "exercise_count": 8,
+    "estimated_duration": "30",
+    "image": "https://staging-assets.sweat.com/focuses/card_images/010/000/780/original/Resistance_%E2%80%A2_Shoulders___Arm_Blast_%28Optional%29e33f15220749032c84e294bc3427906c.png?1625479968"
+  }
+]
